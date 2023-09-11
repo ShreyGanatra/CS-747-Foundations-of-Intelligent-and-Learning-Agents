@@ -1,0 +1,3 @@
+Garivier, Aur´elien, and Olivier Capp´e. ”The KL-UCB algorithm for bounded
+stochastic bandits and beyond.” Proceedings of the 24th annual conference on
+learning theory. JMLR Workshop and Conference Proceedings, 2011.
